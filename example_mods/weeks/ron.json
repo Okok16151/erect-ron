@@ -1,0 +1,32 @@
+{
+	"storyName": "cool guy: ERECT",
+	"difficulties": "erect",
+	"hideFreeplay": false,
+	"weekBackground": "ron",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		192,
+		252,
+		20
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"ron",
+			"ronerect",
+			[
+				192,
+				252,
+				20
+			]
+		]
+	],
+	"weekCharacters": [
+		"menuron",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "cool guy: ERECT"
+}
