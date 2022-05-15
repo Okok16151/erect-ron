@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-70,
+				32
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "speed idle"
+		},
+		{
+			"offsets": [
+				-64,
+				23
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "speed up"
+		},
+		{
+			"offsets": [
+				-62,
+				5
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "speed down"
+		},
+		{
+			"offsets": [
+				-72,
+				25
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "speed right"
+		},
+		{
+			"offsets": [
+				-90,
+				12
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "speed left"
+		},
+		{
+			"offsets": [
+				-63,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "speed hey"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/speed",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "speed",
+	"flip_x": true,
+	"healthbar_colors": [
+		127,
+		90,
+		69
+	],
+	"camera_position": [
+		-80,
+		90
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

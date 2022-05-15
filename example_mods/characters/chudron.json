@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-119
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "ronerect right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-120
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "ronerect down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-110
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "ronerect left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-10
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singUP",
+			"loop": false,
+			"name": "ronerect up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "idle",
+			"loop": false,
+			"name": "ronerect idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/chudron",
+	"position": [
+		0,
+		240
+	],
+	"healthicon": "chudron",
+	"flip_x": false,
+	"healthbar_colors": [
+		185,
+		250,
+		16
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 5,
+	"scale": 1
+}

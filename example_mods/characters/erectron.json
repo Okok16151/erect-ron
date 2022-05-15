@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-119
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ronerect right"
+		},
+		{
+			"offsets": [
+				0,
+				-120
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ronerect down"
+		},
+		{
+			"offsets": [
+				0,
+				-110
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ronerect left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-10
+			],
+			"anim": "singUP",
+			"fps": 16,
+			"name": "ronerect up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 15,
+			"name": "ronerect idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-20
+			],
+			"indices": [],
+			"fps": 5,
+			"anim": "boowomp",
+			"loop": false,
+			"name": "ronerect boowomp"
+		},
+		{
+			"offsets": [
+				0,
+				-10
+			],
+			"indices": [],
+			"fps": 5,
+			"anim": "die",
+			"loop": false,
+			"name": "ronerect die"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/ronerect",
+	"position": [
+		0,
+		240
+	],
+	"healthicon": "ronerect",
+	"flip_x": false,
+	"healthbar_colors": [
+		185,
+		250,
+		16
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 5,
+	"scale": 1
+}
