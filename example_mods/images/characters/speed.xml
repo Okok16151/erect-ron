@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="speed.png"><SubTexture name="speed idle0000" x="849" y="860" width="426" height="836" frameX="-36" frameY="-45" frameWidth="560" frameHeight="914" />
+<SubTexture name="speed idle0001" x="1768" y="0" width="449" height="822" frameX="-24" frameY="-59" frameWidth="560" frameHeight="914" />
+<SubTexture name="speed idle0002" x="2217" y="817" width="463" height="791" frameX="-15" frameY="-92" frameWidth="560" frameHeight="914" />
+<SubTexture name="speed idle0003" x="1768" y="0" width="449" height="822" frameX="-24" frameY="-59" frameWidth="560" frameHeight="914" />
+<SubTexture name="speed up0000" x="861" y="0" width="418" height="844" frameX="-23" frameY="-25" frameWidth="517" frameHeight="923" />
+<SubTexture name="speed up0001" x="0" y="0" width="391" height="860" frameX="-39" frameY="-8" frameWidth="517" frameHeight="923" />
+<SubTexture name="speed down0000" x="2217" y="0" width="463" height="817" frameX="-33" frameY="-25" frameWidth="542" frameHeight="856" />
+<SubTexture name="speed down0001" x="0" y="1697" width="488" height="801" frameX="-25" frameY="-41" frameWidth="542" frameHeight="856" />
+<SubTexture name="speed left0000" x="1275" y="860" width="437" height="826" frameX="-8" frameY="-27" frameWidth="473" frameHeight="875" />
+<SubTexture name="speed left0001" x="0" y="860" width="410" height="837" frameX="-7" frameY="-16" frameWidth="473" frameHeight="875" />
+<SubTexture name="speed right0000" x="1279" y="0" width="489" height="841" frameX="-22" frameY="-31" frameWidth="539" frameHeight="896" />
+<SubTexture name="speed right0001" x="391" y="0" width="470" height="849" frameX="-43" frameY="-23" frameWidth="539" frameHeight="896" />
+<SubTexture name="speed hey0000" x="410" y="860" width="439" height="837" frameX="-32" frameY="-21" frameWidth="560" frameHeight="894" />
+</TextureAtlas>

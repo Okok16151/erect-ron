@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ben.png"><SubTexture name="ben idle0000" x="395" y="613" width="377" height="589" frameX="-33" frameY="-35" frameWidth="461" frameHeight="651" />
+<SubTexture name="ben idle0001" x="401" y="1210" width="390" height="571" frameX="-26" frameY="-54" frameWidth="461" frameHeight="651" />
+<SubTexture name="ben idle0002" x="791" y="1210" width="410" height="555" frameX="-25" frameY="-71" frameWidth="461" frameHeight="651" />
+<SubTexture name="ben idle0003" x="401" y="1210" width="390" height="571" frameX="-26" frameY="-54" frameWidth="461" frameHeight="651" />
+<SubTexture name="ben down0000" x="1440" y="0" width="387" height="578" frameX="-29" frameY="-55" frameWidth="424" frameHeight="680" />
+<SubTexture name="ben down0001" x="0" y="1210" width="401" height="573" frameX="-22" frameY="-61" frameWidth="424" frameHeight="680" />
+<SubTexture name="ben left0000" x="772" y="613" width="384" height="589" frameX="-12" frameY="-62" frameWidth="437" frameHeight="687" />
+<SubTexture name="ben left0001" x="1077" y="0" width="363" height="601" frameX="-11" frameY="-50" frameWidth="437" frameHeight="687" />
+<SubTexture name="ben right0000" x="0" y="613" width="395" height="597" frameX="-22" frameY="-67" frameWidth="430" frameHeight="694" />
+<SubTexture name="ben right0001" x="339" y="0" width="373" height="607" frameX="-45" frameY="-57" frameWidth="430" frameHeight="694" />
+<SubTexture name="ben up0000" x="712" y="0" width="365" height="604" frameX="-16" frameY="-26" frameWidth="420" frameHeight="655" />
+<SubTexture name="ben up0001" x="0" y="0" width="339" height="613" frameX="-35" frameY="-17" frameWidth="420" frameHeight="655" />
+</TextureAtlas>
